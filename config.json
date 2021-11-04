@@ -4,8 +4,8 @@
   "isIgnorable": false,
   "code":1,
   "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionName": "1.0.3",
   "updateLog": "\n1、新增详情页。\n2、新增目录列表。\n3、修改详情页图片宽高。",
-  "apkUrl": "https://down.qq.com/qqweb/QQ_1/android_apk/Android_8.5.0.5025_537066738.apk",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/app-release.apk",
   "apkSize": 4096
 }
