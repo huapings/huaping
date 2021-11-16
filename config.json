@@ -1,11 +1,11 @@
 {
   "hasUpdate": true,
-  "isForce": 0,
+  "isForce": 1,
   "isIgnorable": false,
   "code":1,
-  "versionCode": 6,
-  "versionName": "1.0.6",
-  "updateLog": "新增搜索页。",
-  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.0.6.apk",
-  "apkSize": 20172
+  "versionCode": 11,
+  "versionName": "1.1.6",
+  "updateLog": "1.完善搜索功能。2.完善分类功能",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.1.6.apk",
+  "apkSize": 21504
 }
