@@ -3,9 +3,9 @@
   "isForce": 0,
   "isIgnorable": false,
   "code":1,
-  "versionCode": 115,
-  "versionName": "1.1.5",
-  "updateLog": "1.新增排行榜。2.完善分类功能。3.美化界面。",
-  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.1.5.apk",
+  "versionCode": 118,
+  "versionName": "1.1.8",
+  "updateLog": "1.搜索界面调整。2.个人中心布局优化。3.其他bug处理。",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.1.8.apk",
   "apkSize": 20580
 }
