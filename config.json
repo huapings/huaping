@@ -3,9 +3,9 @@
   "isForce": 1,
   "isIgnorable": false,
   "code":1,
-  "versionCode": 118,
-  "versionName": "1.1.8",
-  "updateLog": "1.新增返回二次确认。2.各界面主辅信息优化。3.其他bug处理。",
-  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.1.9.apk",
+  "versionCode": 120,
+  "versionName": "1.2.0",
+  "updateLog": "1.新增返回二次确认。2.详情页新增章节信息。3.其他页面bug处理。",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.0.apk",
   "apkSize": 20580
 }
