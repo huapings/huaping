@@ -2,7 +2,7 @@
   "hasUpdate": true,
   "isForce": 0,
   "isIgnorable": false,
-  "code":1,
+  "code": 1,
   "versionCode": 120,
   "versionName": "1.2.0",
   "updateLog": "1.新增返回二次确认。2.详情页新增章节信息。3.其他页面bug处理。",
