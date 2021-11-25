@@ -1,11 +1,11 @@
 {
   "hasUpdate": true,
-  "isForce": 1,
+  "isForce": 0,
   "isIgnorable": false,
   "code": 1,
-  "versionCode": 125,
-  "versionName": "1.2.5",
-  "updateLog": "1.新增收藏漫画功能。2.更新软件签名机制。3.本次更新为强制更新，下载安装后可卸载当前版本，使用新签名版本。",
-  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.5.apk",
-  "apkSize": 20863
+  "versionCode": 126,
+  "versionName": "1.2.6",
+  "updateLog": "1.完善收藏列表。2.大数字简化k、w。3.其他bug修改，功能优化。",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.6.apk",
+  "apkSize": 20958
 }
