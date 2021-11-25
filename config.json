@@ -5,7 +5,7 @@
   "code": 1,
   "versionCode": 126,
   "versionName": "1.2.6",
-  "updateLog": "1.完善收藏列表。2.大数字简化k、w。3.已知bug修改，功能优化。",
+  "updateLog": "1.完善收藏列表。2.大数字简化k、w。3.详情页上下章节按钮逻辑修改。4.功能优化。",
   "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.6.apk",
   "apkSize": 20958
 }
