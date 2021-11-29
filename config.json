@@ -3,9 +3,9 @@
   "isForce": 0,
   "isIgnorable": false,
   "code": 1,
-  "versionCode": 126,
-  "versionName": "1.2.6",
-  "updateLog": "1.完善收藏列表。2.大数字简化k、w。3.详情页上下章节按钮逻辑修改。4.功能优化。",
-  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.6.apk",
-  "apkSize": 20958
+  "versionCode": 127,
+  "versionName": "1.2.7",
+  "updateLog": "1.新增夜间模式功能，保护每一双发现美的眼睛。2.启动图点击优化。3.详情页优化。",
+  "apkUrl": "http://liushan.kuaiyunds.com/liushan/apk/huaping_v1.2.7.apk",
+  "apkSize": 21149
 }
