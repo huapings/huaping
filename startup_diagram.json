@@ -1,11 +1,36 @@
 {
-  "code": 1,
-  "show": true,
-  "sdContent": [
-    {
-      "showFlag": true,
-      "imgUrl": "https://www.hualigs.cn/image/619f97f31a980.jpg",
-      "targetUrl": "/manDetail/1914/把妹鬼达人"
-    }
-  ]
+    "code": 1,
+    "show": true,
+    "sdContent": [
+        {
+            "showFlag": true,
+            "imgUrl": "https://www.hualigs.cn/image/619f97f31a980.jpg",
+            "targetUrl": "/manDetail/1914/把妹鬼达人"
+        },
+        {
+            "showFlag": true,
+            "imgUrl": "https://tiebapic.baidu.com/tieba/pic/item/4710b912c8fcc3ce96e9e52bcf45d688d43f20f8.jpg",
+            "targetUrl": "/manDetail/1630/网红私生活"
+        },
+        {
+            "showFlag": true,
+            "imgUrl": "https://tiebapic.baidu.com/tieba/pic/item/78f0f736afc379318e4aaa31b6c4b74543a91183.jpg",
+            "targetUrl": "/manDetail/1869/偷食的滋味"
+        },
+        {
+            "showFlag": true,
+            "imgUrl": "https://tiebapic.baidu.com/tieba/pic/item/b9014a90f603738d3857203aee1bb051f819ec8d.jpg",
+            "targetUrl": "/manDetail/1828/业绩女王"
+        },
+        {
+            "showFlag": true,
+            "imgUrl": "https://tiebapic.baidu.com/tieba/pic/item/fc039245d688d43fddb5bdea201ed21b0ef43b8d.jpg",
+            "targetUrl": "/manDetail/1896/大学骑遇记"
+        },
+        {
+            "showFlag": true,
+            "imgUrl": "https://tiebapic.baidu.com/tieba/pic/item/c9ea15ce36d3d539d803922c7f87e950352ab027.jpg",
+            "targetUrl": "/manDetail/1916/楼上的网美"
+        }
+    ]
 }
